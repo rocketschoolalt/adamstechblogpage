@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "date": "Wed, 27 Jul 2022 00:17:55 GMT",
+    "cf-ray": "731131df88922ac6-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "vary": "Origin, Accept-Encoding",
+    "server": "cloudflare",
+    "cf-cache-status": "DYNAMIC",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-type": "application/typescript; charset=utf-8",
+    "last-modified": "Mon, 11 Jul 2022 23:41:04 GMT",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=LyKr1Ho8NfhKTb5FzouBUfmU6vDE8UtzAeLEPYEnA8lsRS8F%2BcYdLADhq5rtwvFikpMO%2FKJV%2FzFQgf9lGVAA%2BxEWihCf3Xx8AVkfNUS%2BVob7ib0NCawBPZU%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+  },
+  "url": "https://esm.sh/v87/htmlparser2@6.1.0/lib/Tokenizer.d.ts"
+}

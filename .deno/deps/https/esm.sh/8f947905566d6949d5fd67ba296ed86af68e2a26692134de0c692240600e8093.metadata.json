@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "cf-cache-status": "HIT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-type": "text/javascript; charset=utf-8",
+    "date": "Wed, 27 Jul 2022 00:17:52 GMT",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=HIGNm89g8anOsZ6Df0GWK2Q5CE20zPTQR6Nmd5eTLUbK0xQiJi2UEIntb2zbYwoFMV35Sb5%2FTUwVesZdZ7ZxuEfFlsjhel7LZoHsZLmVvRl%2FG9SR06Nz6a8%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "cf-ray": "731131d15e9b2ac6-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "vary": "Origin, Accept-Encoding",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "age": "59266",
+    "last-modified": "Mon, 11 Jul 2022 23:39:33 GMT"
+  },
+  "url": "https://esm.sh/v87/domutils@2.8.0/deno/domutils.js"
+}

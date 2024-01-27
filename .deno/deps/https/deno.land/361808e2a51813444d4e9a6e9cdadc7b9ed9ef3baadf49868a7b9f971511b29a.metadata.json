@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-amz-id-2": "0KCXC1vHQAtYNGEpXxWQbC3Irg6d9yz6mUJNXEOoGE4hw7e4Xxj+Of7o47+3nK/uWJ7bVGjbFVc=",
+    "x-amz-version-id": "vY_C1PJgpnHkcihg8lzaQH16zhpEwgGm",
+    "content-length": "87",
+    "access-control-allow-origin": "*",
+    "vary": "Accept-Encoding",
+    "x-amz-request-id": "X4MDR953E1YH7NJ5",
+    "etag": "\"fcedf961bc626fd76a0c85089f1afb10\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Wed, 27 Jul 2022 00:17:54 GMT",
+    "content-type": "application/typescript; charset=utf-8",
+    "server": "deno/us-central1-b",
+    "last-modified": "Tue, 05 Jul 2022 14:17:31 GMT"
+  },
+  "url": "https://deno.land/std@0.147.0/node/internal_binding/inspector.ts"
+}

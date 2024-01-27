@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-amz-id-2": "DU3qEXCUCcaOdT+F0QEyzhl1SwjDzBRzsrzIVJ5ULdguDVX+LqQA5I3l0BFEbe4aCJhZP8sYn+E=",
+    "x-amz-request-id": "X4M9FWT4YGR4NTGC",
+    "vary": "Accept-Encoding",
+    "x-amz-version-id": "ITsaWL6V5BRuYCyOiXK4kgVfEIs04Z.B",
+    "server": "deno/us-central1-b",
+    "access-control-allow-origin": "*",
+    "date": "Wed, 27 Jul 2022 00:17:54 GMT",
+    "content-type": "application/typescript; charset=utf-8",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-length": "1726",
+    "etag": "\"9f41c2dff2f3116956ae36dcb3a7aa2a\"",
+    "last-modified": "Tue, 05 Jul 2022 14:17:29 GMT"
+  },
+  "url": "https://deno.land/std@0.147.0/node/_fs/_fs_appendFile.ts"
+}

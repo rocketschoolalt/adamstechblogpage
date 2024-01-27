@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "content-type": "application/javascript",
+    "vary": "Accept-Encoding",
+    "last-modified": "Tue, 05 Jul 2022 14:17:31 GMT",
+    "server": "deno/us-central1-b",
+    "x-amz-request-id": "X4M2TKA2TM7PJ387",
+    "x-amz-version-id": "GawZFbSyF9BtpdG7onFQilLi4QVeH462",
+    "x-amz-id-2": "94NNLNuQpRXLUencPOMTx1XR2xRSsKPma0b3c5usfbGV49uQHCyOV0cr+ftehAaKkh6V1Ia2RgQ=",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"57d92d8a557b2d2dc31bab33cb42273e\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Wed, 27 Jul 2022 00:17:54 GMT"
+  },
+  "url": "https://deno.land/std@0.147.0/node/internal/streams/duplex.mjs"
+}

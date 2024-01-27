@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=oM22LswWUEDKYKyac09qmN8w74eMyiNR%2B7XuhxpoPONX0IgZzzdTie%2F8SO5PszIl6r87AzLq2CLH%2FfX72VH%2Bh2G2b8eu9BLp26466yObE%2BWiizVBmb6irTg%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "age": "159214",
+    "cf-ray": "731131d15e912ac6-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "server": "cloudflare",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cache-control": "public, max-age=31536000, immutable",
+    "last-modified": "Mon, 11 Jul 2022 23:39:32 GMT",
+    "cf-cache-status": "HIT",
+    "vary": "Origin, Accept-Encoding",
+    "date": "Wed, 27 Jul 2022 00:17:52 GMT",
+    "content-type": "text/javascript; charset=utf-8"
+  },
+  "url": "https://esm.sh/v87/nanoid@3.3.4/deno/non-secure.js"
+}

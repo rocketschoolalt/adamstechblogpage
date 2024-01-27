@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "date": "Wed, 27 Jul 2022 00:17:54 GMT",
+    "x-amz-request-id": "X4M6VJT7NP366VD0",
+    "server": "deno/us-central1-b",
+    "last-modified": "Tue, 05 Jul 2022 14:17:30 GMT",
+    "etag": "\"c73724746a9f5fbbb5bcefd6c9f5310d\"",
+    "x-amz-id-2": "1r/3vRIGtInN9nFDjXUAnyp1QfIw9kPrnqTYM1dxQRHUAiObHdFC03NJyLbaS18Y0EA1267Xig8=",
+    "x-amz-version-id": "3OF3nBImqVUy5UacCKEF3opNdSe0hmWq",
+    "vary": "Accept-Encoding",
+    "content-type": "application/typescript; charset=utf-8",
+    "cache-control": "public, max-age=31536000, immutable",
+    "access-control-allow-origin": "*",
+    "content-length": "5046"
+  },
+  "url": "https://deno.land/std@0.147.0/node/_next_tick.ts"
+}

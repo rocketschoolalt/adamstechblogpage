@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/typescript; charset=utf-8",
+    "x-amz-request-id": "X4M5R5HZKYAKYJWG",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Wed, 27 Jul 2022 00:17:54 GMT",
+    "access-control-allow-origin": "*",
+    "last-modified": "Tue, 05 Jul 2022 14:17:31 GMT",
+    "content-length": "7750",
+    "server": "deno/us-central1-b",
+    "x-amz-id-2": "3KfmNdj16LrUezZBajsSV4PUEsekou3xyezTRGWxmGfL1VguUyn5pl36jPGhDd5t16PPg5evNKs=",
+    "x-amz-version-id": "JAnc6jqzDR1xROkedotO5NyAg3e4PAuD",
+    "vary": "Accept-Encoding",
+    "etag": "\"be7555f6b2bc77e04e11ab2bb6fdd6be\""
+  },
+  "url": "https://deno.land/std@0.147.0/node/internal_binding/_libuv_winerror.ts"
+}

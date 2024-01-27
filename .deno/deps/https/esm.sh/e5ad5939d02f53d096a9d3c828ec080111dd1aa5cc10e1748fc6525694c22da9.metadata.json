@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "date": "Wed, 27 Jul 2022 00:17:52 GMT",
+    "last-modified": "Mon, 11 Jul 2022 23:30:17 GMT",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "server": "cloudflare",
+    "cf-cache-status": "HIT",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "vary": "Origin, Accept-Encoding",
+    "age": "37398",
+    "cf-ray": "731131d04c9f2ac6-ORD",
+    "content-type": "text/javascript; charset=utf-8",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=RZXoZQqlALX4amm6AjhV7LjyIV%2ByzJpsVeWFUBxtyEAFlp71wANHOKLu8%2Bavl6lvBCrLGRn%2B1%2BTX0vd4rZn0sErCZfcA85ZBGjt2MjYHSvs0JHXS4PHcXlY%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+  },
+  "url": "https://esm.sh/v87/sax@1.2.4/deno/sax.js"
+}

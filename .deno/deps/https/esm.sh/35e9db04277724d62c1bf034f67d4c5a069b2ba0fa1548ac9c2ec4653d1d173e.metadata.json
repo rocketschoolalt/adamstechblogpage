@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "vary": "Origin, Accept-Encoding",
+    "cache-control": "public, max-age=31536000, immutable",
+    "age": "59266",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "last-modified": "Mon, 11 Jul 2022 23:39:32 GMT",
+    "content-type": "text/javascript; charset=utf-8",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=m51nYnUseoOX%2B4UQoeBmlB8v701UEHxoP3tlGyB06GpYD2n8%2BNP0JTgrSDuj5vaLuNVnZYaHhgWLDTfW2l%2Fzg0nYT4YpxZXzMrT2tIwv8Icwdx08AWRBI1U%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "cf-ray": "731131d0ddab2ac6-ORD",
+    "date": "Wed, 27 Jul 2022 00:17:52 GMT",
+    "cf-cache-status": "HIT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+  },
+  "url": "https://esm.sh/v87/is-plain-object@5.0.0/deno/is-plain-object.js"
+}

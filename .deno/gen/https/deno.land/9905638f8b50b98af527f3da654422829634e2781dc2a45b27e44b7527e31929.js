@@ -1,0 +1,6 @@
+// Copyright 2018-2022 the Deno authors. All rights reserved. MIT license.
+import * as types from "../internal/util/types.ts";
+export default {
+    ...types
+};
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImh0dHBzOi8vZGVuby5sYW5kL3N0ZEAwLjE0Ny4wL25vZGUvdXRpbC90eXBlcy50cyJdLCJzb3VyY2VzQ29udGVudCI6WyIvLyBDb3B5cmlnaHQgMjAxOC0yMDIyIHRoZSBEZW5vIGF1dGhvcnMuIEFsbCByaWdodHMgcmVzZXJ2ZWQuIE1JVCBsaWNlbnNlLlxuaW1wb3J0ICogYXMgdHlwZXMgZnJvbSBcIi4uL2ludGVybmFsL3V0aWwvdHlwZXMudHNcIjtcblxuZXhwb3J0IGRlZmF1bHQgeyAuLi50eXBlcyB9O1xuIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLDBFQUEwRTtBQUMxRSxZQUFZLEtBQUssTUFBTSwyQkFBMkIsQ0FBQztBQUVuRCxlQUFlO0lBQUUsR0FBRyxLQUFLO0NBQUUsQ0FBQyJ9

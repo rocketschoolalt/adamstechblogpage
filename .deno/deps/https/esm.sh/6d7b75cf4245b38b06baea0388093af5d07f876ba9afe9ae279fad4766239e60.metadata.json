@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "cf-cache-status": "HIT",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=4OIhomSSrRAB0wkvDQTfHg0XNya4rCEXolDF1n5Zq2SM83YixX9h5XQwKlwPCoFshlWqn0ekwz7WMCp%2FT2tVO96fanFudxUxzUuk%2B51a9a2fhHdlojk4lh0%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "age": "159214",
+    "date": "Wed, 27 Jul 2022 00:17:52 GMT",
+    "content-type": "text/javascript; charset=utf-8",
+    "server": "cloudflare",
+    "cf-ray": "731131d15e962ac6-ORD",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cache-control": "public, max-age=31536000, immutable",
+    "vary": "Origin, Accept-Encoding",
+    "last-modified": "Mon, 11 Jul 2022 23:39:32 GMT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\""
+  },
+  "url": "https://esm.sh/v87/picocolors@1.0.0/deno/picocolors.js"
+}

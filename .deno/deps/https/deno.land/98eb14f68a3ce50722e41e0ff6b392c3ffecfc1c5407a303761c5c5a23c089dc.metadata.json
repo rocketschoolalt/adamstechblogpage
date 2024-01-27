@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/typescript; charset=utf-8",
+    "etag": "\"5087daba754404f3d109c26b617dfbb0\"",
+    "x-amz-version-id": "cwrARVJ0xmLS6suJFMVluz8sf4MmVz0J",
+    "access-control-allow-origin": "*",
+    "server": "deno/us-central1-b",
+    "last-modified": "Tue, 05 Jul 2022 14:17:31 GMT",
+    "content-length": "463",
+    "date": "Wed, 27 Jul 2022 00:17:54 GMT",
+    "x-amz-id-2": "yxGMe6qPall5HZEAyT4oZ4QQVZqLPZwa7rliPm371tmKZws+qKH1souyHaRKGYyOcEX6T0TapMI=",
+    "vary": "Accept-Encoding",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-request-id": "X4MAVFHARYS00A1J"
+  },
+  "url": "https://deno.land/std@0.147.0/node/internal/crypto/_keys.ts"
+}

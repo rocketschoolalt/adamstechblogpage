@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "last-modified": "Tue, 05 Jul 2022 14:17:31 GMT",
+    "x-amz-version-id": "zixAmqdsofdZ6MunwFZW2GsVHFrI5uzS",
+    "vary": "Accept-Encoding",
+    "etag": "\"42c6c57647dbbe6e619dd28ae0302cf2\"",
+    "server": "deno/us-central1-b",
+    "content-length": "252",
+    "date": "Wed, 27 Jul 2022 00:17:54 GMT",
+    "x-amz-id-2": "WudMH7pceGrwmOzTSM1XYnZb2M/xUriE0hoBrnUQ+OaIKquc2rshMhvaWYZv0vkWgtX7h7GEE3M=",
+    "x-amz-request-id": "X4MBAVBFGJAZ59NN",
+    "content-type": "application/typescript; charset=utf-8",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://deno.land/std@0.147.0/node/internal/crypto/constants.ts"
+}

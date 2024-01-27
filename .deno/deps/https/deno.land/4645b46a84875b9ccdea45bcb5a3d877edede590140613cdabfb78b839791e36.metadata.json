@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-length": "14201",
+    "vary": "Accept-Encoding",
+    "x-amz-request-id": "X4M2DQDACDWYEK2D",
+    "x-amz-id-2": "a5CTwudzSjnRhD4oziD9Py866Ya/O7yLSb9Gs5rMVZx0DqfSjJtGtPlfISOECks1BLyyUphaf8U=",
+    "server": "deno/us-central1-b",
+    "etag": "\"210ae6c51c8f6528c3a8cc3c95e4daa1\"",
+    "x-amz-version-id": "ISFegc1Rvy6HIsP7bwGyz0EdDp0ZioLf",
+    "access-control-allow-origin": "*",
+    "content-type": "application/typescript; charset=utf-8",
+    "last-modified": "Tue, 05 Jul 2022 14:17:31 GMT",
+    "date": "Wed, 27 Jul 2022 00:17:54 GMT"
+  },
+  "url": "https://deno.land/std@0.147.0/node/internal/idna.ts"
+}

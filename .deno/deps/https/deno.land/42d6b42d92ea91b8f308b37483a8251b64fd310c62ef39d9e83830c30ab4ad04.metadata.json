@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "etag": "\"5e70ac8eacba9dafedb503755cf8e400\"",
+    "x-amz-id-2": "zU1uUh2WNEaUSFw280KQZyZRjSqiy5q/127SD8Gn479/tgjrmJjxiGIwY0F9cUZJEgMgQJerPDg=",
+    "x-amz-request-id": "JTSQFAD8DYDW9CB8",
+    "x-amz-version-id": "vHpV.1_ZMgujIkR_qJIufArj9vOf1zrV",
+    "access-control-allow-origin": "*",
+    "vary": "Accept-Encoding",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-length": "1762",
+    "server": "deno/us-central1-b",
+    "last-modified": "Thu, 16 Dec 2021 16:30:40 GMT",
+    "date": "Wed, 27 Jul 2022 00:17:53 GMT",
+    "content-type": "application/typescript; charset=utf-8"
+  },
+  "url": "https://deno.land/std@0.118.0/io/readers.ts"
+}

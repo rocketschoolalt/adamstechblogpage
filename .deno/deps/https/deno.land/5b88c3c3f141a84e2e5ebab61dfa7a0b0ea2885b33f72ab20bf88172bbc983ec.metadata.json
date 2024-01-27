@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "date": "Wed, 27 Jul 2022 00:17:54 GMT",
+    "etag": "\"fcedf961bc626fd76a0c85089f1afb10\"",
+    "x-amz-version-id": "SN7.dJ8jazG8sk8gmVEnBS2CZJoBWQj_",
+    "vary": "Accept-Encoding",
+    "x-amz-id-2": "W0Cf3QpHkLcVZqb9TWRzRBBZdo2M0NiP0y9kBR1cJMFqH7+XIopQg/8LHs4VY40i2uPbO3b9Hzc=",
+    "content-length": "87",
+    "server": "deno/us-central1-b",
+    "cache-control": "public, max-age=31536000, immutable",
+    "access-control-allow-origin": "*",
+    "content-type": "application/typescript; charset=utf-8",
+    "x-amz-request-id": "X4M9HCHDG8R7PG8K",
+    "last-modified": "Tue, 05 Jul 2022 14:17:31 GMT"
+  },
+  "url": "https://deno.land/std@0.147.0/node/internal_binding/task_queue.ts"
+}

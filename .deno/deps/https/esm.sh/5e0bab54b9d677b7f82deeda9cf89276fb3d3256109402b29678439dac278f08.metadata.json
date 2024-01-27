@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Wed, 27 Jul 2022 00:17:52 GMT",
+    "cf-cache-status": "HIT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "server": "cloudflare",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=yb%2Bc%2F4YsK4D7FNCWV5utfPYqH1MGmbnyh1x%2BU7l%2FSYkDroxNE8jtWN7%2FbO%2FyfD0l8PQPPDUvdPUGDkVAOC261nCahOKieYt7LgRb4bFt2SugmZECWz%2B74mE%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "last-modified": "Tue, 12 Jul 2022 01:32:29 GMT",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cf-ray": "731131cf5aec2ac6-ORD",
+    "content-type": "text/javascript; charset=utf-8",
+    "vary": "Origin, Accept-Encoding",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+  },
+  "url": "https://esm.sh/v87/remove-markdown@0.5.0/deno/remove-markdown.js"
+}

@@ -1,0 +1,3 @@
+// Copyright 2020-present the denosaurs team. All rights reserved. MIT license.
+export * from "./emoji.ts";
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImh0dHBzOi8vZGVuby5sYW5kL3gvZW1vamlAMC4xLjIvbW9kLnRzIl0sInNvdXJjZXNDb250ZW50IjpbIi8vIENvcHlyaWdodCAyMDIwLXByZXNlbnQgdGhlIGRlbm9zYXVycyB0ZWFtLiBBbGwgcmlnaHRzIHJlc2VydmVkLiBNSVQgbGljZW5zZS5cblxuZXhwb3J0ICogZnJvbSBcIi4vZW1vamkudHNcIjtcbiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSwrRUFBK0U7QUFFL0UsY0FBYyxZQUFZLENBQUMifQ==

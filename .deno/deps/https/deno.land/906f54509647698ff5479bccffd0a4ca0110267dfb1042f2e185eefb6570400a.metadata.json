@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-request-id": "X4M4YJXT1338CB8Q",
+    "last-modified": "Tue, 05 Jul 2022 14:17:29 GMT",
+    "x-amz-version-id": "lBzTH7rP4._nv3ju77oMUJ8BOuQvW6C4",
+    "access-control-allow-origin": "*",
+    "vary": "Accept-Encoding",
+    "x-amz-id-2": "xOsa8OM50HVdGW1pTeWBrkVGubB65Z3Z5yEWuxt3KvDf1Gp0elFpXp/QeFiXNZeffMv+qN0JEdE=",
+    "server": "deno/us-central1-b",
+    "content-length": "1215",
+    "content-type": "application/typescript; charset=utf-8",
+    "date": "Wed, 27 Jul 2022 00:17:54 GMT",
+    "etag": "\"8af8995469983686a1c8a007b37fa2e8\""
+  },
+  "url": "https://deno.land/std@0.147.0/node/_fs/_fs_futimes.ts"
+}

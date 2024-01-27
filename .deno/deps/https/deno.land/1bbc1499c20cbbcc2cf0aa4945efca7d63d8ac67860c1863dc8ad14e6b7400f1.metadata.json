@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "date": "Wed, 27 Jul 2022 00:17:54 GMT",
+    "x-amz-id-2": "tiUBhil3dUUkW/V48artimMVIjtipOmv8ntYZO7MWPCDdAFAFVBJOQroot49bpxY0W03HuOcnA4=",
+    "access-control-allow-origin": "*",
+    "last-modified": "Tue, 05 Jul 2022 14:17:31 GMT",
+    "server": "deno/us-central1-b",
+    "content-length": "12321",
+    "content-type": "application/typescript; charset=utf-8",
+    "cache-control": "public, max-age=31536000, immutable",
+    "etag": "\"4b78e1205f64c7ceab6ae92b878afd51\"",
+    "x-amz-version-id": "xGpwzEpXc72oaoIZ7pQcVuEyMUTFERCr",
+    "x-amz-request-id": "X4MDGR4NB2NFA2QT",
+    "vary": "Accept-Encoding"
+  },
+  "url": "https://deno.land/std@0.147.0/node/internal_binding/udp_wrap.ts"
+}

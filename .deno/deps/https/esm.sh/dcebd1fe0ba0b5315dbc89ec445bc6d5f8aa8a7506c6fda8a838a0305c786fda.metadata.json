@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "text/javascript; charset=utf-8",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "server": "cloudflare",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cf-ray": "731131cfbb8f2ac6-ORD",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "vary": "Origin, Accept-Encoding",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=DtO3MqNOqTZ0za73cXMWKlM9UW0kGOeIBOK2LKsgK568gVloF8dFVdE9sEDrtoGJjlxtU283SY0CGdHO3QwyW20HkdRNBgzoH%2BUoQIr4FzqvFVaqrDs42oc%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "date": "Wed, 27 Jul 2022 00:17:52 GMT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "last-modified": "Tue, 12 Jul 2022 03:32:39 GMT",
+    "cf-cache-status": "HIT"
+  },
+  "url": "https://esm.sh/v87/@unocss/preset-wind@0.37.2/deno/preset-wind.bundle.js"
+}

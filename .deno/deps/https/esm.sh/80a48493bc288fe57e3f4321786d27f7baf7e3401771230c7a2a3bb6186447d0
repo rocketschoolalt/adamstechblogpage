@@ -1,0 +1,2 @@
+/* esm.sh - @unocss/core@0.37.2 */
+export * from "https://esm.sh/v87/@unocss/core@0.37.2/deno/core.js";

@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "date": "Wed, 27 Jul 2022 00:17:53 GMT",
+    "vary": "Accept-Encoding",
+    "x-amz-request-id": "JTSRBMAMS96SETTW",
+    "etag": "\"dd2dc22513d1177efbeefe650ad073b4\"",
+    "last-modified": "Wed, 18 May 2022 13:28:49 GMT",
+    "content-type": "application/typescript; charset=utf-8",
+    "x-amz-id-2": "eKc9vFuBv7Q9UuP1oUPFHv9Ap/BIE0yjR2bcuvuOQGxtZ6zTEjJOLuzqqq2GaIDkgWJqWsOWqqw=",
+    "access-control-allow-origin": "*",
+    "server": "deno/us-central1-b",
+    "x-amz-version-id": "WqcPaYE5TDvsXIvzyKvZOq.XVHQM318l",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-length": "1816"
+  },
+  "url": "https://deno.land/std@0.140.0/datetime/tokenizer.ts"
+}

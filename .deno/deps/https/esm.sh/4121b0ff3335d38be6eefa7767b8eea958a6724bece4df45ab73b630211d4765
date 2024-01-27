@@ -1,0 +1,3 @@
+/* esm.sh - feed@4.2.2 */
+export * from "https://esm.sh/v87/feed@4.2.2/deno/feed.js";
+export { default } from "https://esm.sh/v87/feed@4.2.2/deno/feed.js";

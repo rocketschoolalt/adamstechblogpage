@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "server": "cloudflare",
+    "last-modified": "Mon, 11 Jul 2022 23:11:44 GMT",
+    "cf-ray": "731131d15ea32ac6-ORD",
+    "date": "Wed, 27 Jul 2022 00:17:52 GMT",
+    "cf-cache-status": "HIT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "vary": "Origin, Accept-Encoding",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=GaXpJl5FzyJWiW%2Ft2MDnsgKkqRMbwbRWgyqQ7GwXTiU4dI2RxoEPy8a8%2FFkAuZGBeg7Bco8odC3qYXbpjZIEFu8bOeZbzud5MHOxPD1dnooD44NK7KBehcY%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "age": "213573",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-type": "text/javascript; charset=utf-8"
+  },
+  "url": "https://esm.sh/v87/entities@2.2.0/deno/lib/maps/legacy.json.js"
+}

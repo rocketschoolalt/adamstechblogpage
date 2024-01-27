@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "last-modified": "Mon, 11 Jul 2022 23:25:56 GMT",
+    "age": "59266",
+    "cf-cache-status": "HIT",
+    "vary": "Origin, Accept-Encoding",
+    "server": "cloudflare",
+    "cf-ray": "731131d0dda52ac6-ORD",
+    "date": "Wed, 27 Jul 2022 00:17:52 GMT",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=wTVBmhrhPCqJyUdWKkhjWSLAGk5CEkw%2FjhVzLhE%2BCnkez79O7iNxWrmFjaHuATrdKpu8u3JVOtznsLtdqGlTX6KPmLoXdGj5s7pN0HSdFhKLghHzofjPV%2FE%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "content-type": "text/javascript; charset=utf-8",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+  },
+  "url": "https://esm.sh/v87/deepmerge@4.2.2/deno/deepmerge.js"
+}

@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "cache-control": "public, max-age=86400",
+    "server": "cloudflare",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "content-type": "application/javascript; charset=utf-8",
+    "cf-cache-status": "DYNAMIC",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=QjZFdXdYu8W%2FaRIUAcLGBY%2BUO67yFzKrb0KiseZIOeSr4KpEvYOF2e2bFOU%2BoFoqeIeFQvuXXFEd0O%2F7bL710%2BZsNvmGjK0%2BwfeSva0GgSQhaLg%2BCNBfYT4%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "date": "Wed, 27 Jul 2022 00:17:52 GMT",
+    "vary": "User-Agent",
+    "cf-ray": "731131cc3ce62ac6-ORD"
+  },
+  "url": "https://esm.sh/prismjs@1.27.0/components/prism-c?no-check"
+}

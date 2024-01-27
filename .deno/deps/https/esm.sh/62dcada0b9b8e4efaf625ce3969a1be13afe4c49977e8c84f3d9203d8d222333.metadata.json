@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=B93YNlYBpfv5yq1A5vnBmRL7nZmt6tLHq554%2B0FLx4b9YiRG4ydeWCq1WPuhjyCSi%2BNIgai5bQE1nxgMEsLEfurrbKmHpmrdG72KJA4RVI2bTKI3eyNClwU%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "content-type": "text/javascript; charset=utf-8",
+    "server": "cloudflare",
+    "vary": "Origin, Accept-Encoding",
+    "cf-ray": "731131d0dda62ac6-ORD",
+    "age": "59266",
+    "cache-control": "public, max-age=31536000, immutable",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "date": "Wed, 27 Jul 2022 00:17:52 GMT",
+    "cf-cache-status": "HIT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "last-modified": "Mon, 11 Jul 2022 23:39:32 GMT"
+  },
+  "url": "https://esm.sh/v87/escape-string-regexp@4.0.0/deno/escape-string-regexp.js"
+}

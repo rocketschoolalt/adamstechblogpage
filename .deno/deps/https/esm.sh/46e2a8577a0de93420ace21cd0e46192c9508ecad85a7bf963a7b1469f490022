@@ -1,0 +1,3 @@
+/* esm.sh - @unocss/preset-wind@0.37.2 */
+export * from "https://esm.sh/v87/@unocss/preset-wind@0.37.2/deno/preset-wind.bundle.js";
+export { default } from "https://esm.sh/v87/@unocss/preset-wind@0.37.2/deno/preset-wind.bundle.js";

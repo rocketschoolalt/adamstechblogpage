@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-chi-kigq8000148-CHI",
+    "etag": "W/\"c5e072c62a9b34efebf7eefb741144d39c7a6b8492a61b30e9c19d5c5fdf7115\"",
+    "cache-control": "max-age=300",
+    "x-timer": "S1658881072.966955,VS0,VE93",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS",
+    "vary": "Authorization,Accept-Encoding,Origin",
+    "x-github-request-id": "28A6:1FA8:15B53:24C15:62E0842F",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "date": "Wed, 27 Jul 2022 00:17:52 GMT",
+    "x-fastly-request-id": "fa33b1f76fea790a1beae02c9f561d52877704ff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish",
+    "expires": "Wed, 27 Jul 2022 00:22:52 GMT",
+    "x-cache-hits": "0"
+  },
+  "url": "https://raw.githubusercontent.com/kt3k/callsites/v1.0.0/mod.ts"
+}

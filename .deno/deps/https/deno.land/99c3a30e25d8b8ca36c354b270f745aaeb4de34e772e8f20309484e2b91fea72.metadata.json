@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "date": "Wed, 27 Jul 2022 00:17:54 GMT",
+    "last-modified": "Tue, 05 Jul 2022 14:17:31 GMT",
+    "content-length": "1738",
+    "access-control-allow-origin": "*",
+    "server": "deno/us-central1-b",
+    "etag": "\"75459e293d48a1dc74e8eddb4db60ff1\"",
+    "x-amz-id-2": "P2174CgfmqdqN8xDU1yVAhN6pzfjvuJj2qNJkxCpRQ5M2X5CeRIP12vlFQlmr4AgEfUXXNp+O3U=",
+    "x-amz-request-id": "X4M7PM45Y6C981KF",
+    "vary": "Accept-Encoding",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-version-id": "jvKLPzz9iweIDu4ALkFN9m2DeLPwsOSq",
+    "content-type": "application/typescript; charset=utf-8"
+  },
+  "url": "https://deno.land/std@0.147.0/node/internal/options.ts"
+}

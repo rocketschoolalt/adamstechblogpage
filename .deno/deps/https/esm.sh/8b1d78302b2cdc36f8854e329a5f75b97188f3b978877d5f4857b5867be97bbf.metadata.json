@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "date": "Wed, 27 Jul 2022 00:17:52 GMT",
+    "cf-cache-status": "HIT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=fRjB%2BxY4JAlgh2DX2N8%2BLmInZt95pV%2BFhmQ42mukEdmRWqOFR%2BUP3i1fWuVU1dXCoadGDLAjKFqKmLdA1B1Klpx%2FuflLN9k0hSWkK3VjSXaJsKgF%2FYxUoI0%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "age": "213573",
+    "content-type": "text/javascript; charset=utf-8",
+    "vary": "Origin, Accept-Encoding",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cf-ray": "731131d218402ac6-ORD",
+    "last-modified": "Mon, 11 Jul 2022 23:11:43 GMT"
+  },
+  "url": "https://esm.sh/v87/entities@2.2.0/deno/lib/maps/decode.json.js"
+}

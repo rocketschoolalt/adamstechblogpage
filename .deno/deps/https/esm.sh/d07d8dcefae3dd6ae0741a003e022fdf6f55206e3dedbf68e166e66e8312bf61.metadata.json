@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "server": "cloudflare",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "cf-ray": "731131e18c662ac6-ORD",
+    "content-type": "application/typescript; charset=utf-8",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cf-cache-status": "DYNAMIC",
+    "cache-control": "public, max-age=31536000, immutable",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=APmcILOGemlh7tOrb%2BlQh%2Fx%2BzQWth6ntDeZSOrP7mvKQy4SUvxy6igo2Ffi7rVTLyBa4zWEOvFdxeOGn1UwHA7BHXeTrNg3CSTL%2FI3PwnB0xcE8nKL2i6Lk%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "vary": "Origin, Accept-Encoding",
+    "last-modified": "Mon, 11 Jul 2022 23:41:04 GMT",
+    "date": "Wed, 27 Jul 2022 00:17:55 GMT",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+  },
+  "url": "https://esm.sh/v87/domutils@2.8.0/lib/legacy.d.ts"
+}

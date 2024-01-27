@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "etag": "\"15c9f26d67e742f02d259e4e21480c1c\"",
+    "server": "deno/us-central1-b",
+    "last-modified": "Mon, 21 Sep 2020 13:11:20 GMT",
+    "x-amz-id-2": "qtfKUMjBr9iGzevi4qwGdJMKfM2tllUd/Mf2SM0KyK4rspu1/tO7x8xDVqMZfMBqjyZAu8l6Swk=",
+    "x-amz-request-id": "JTSK5K6QY3XFQPAR",
+    "access-control-allow-origin": "*",
+    "vary": "Accept-Encoding",
+    "date": "Wed, 27 Jul 2022 00:17:53 GMT",
+    "content-type": "application/typescript; charset=utf-8",
+    "content-length": "348610",
+    "x-amz-version-id": "kVfiOdd7mI13LkhEHfxnCGzDrjBQ2C5T"
+  },
+  "url": "https://deno.land/x/emoji@0.1.2/all.ts"
+}

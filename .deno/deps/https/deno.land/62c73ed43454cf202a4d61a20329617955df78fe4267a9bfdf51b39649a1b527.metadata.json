@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-amz-request-id": "JTSG6W6R3JKM97N8",
+    "vary": "Accept-Encoding",
+    "content-type": "application/typescript; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "x-amz-version-id": "pqzMuF2wNKOyLG8CUXEPv708J5c9mHiw",
+    "x-amz-id-2": "G6tKlU9/bnWogfgJtd+ikmEdgPebftdNR/vTjukP9AXPbaRbuXnMHDodsihL4FIT+7sn8brXnO4=",
+    "cache-control": "public, max-age=31536000, immutable",
+    "etag": "\"c2c0a51099403711f5d728dbc7d1eb99\"",
+    "content-length": "1982",
+    "date": "Wed, 27 Jul 2022 00:17:53 GMT",
+    "last-modified": "Wed, 05 Jan 2022 16:51:16 GMT",
+    "server": "deno/us-central1-b"
+  },
+  "url": "https://deno.land/std@0.120.0/async/mux_async_iterator.ts"
+}

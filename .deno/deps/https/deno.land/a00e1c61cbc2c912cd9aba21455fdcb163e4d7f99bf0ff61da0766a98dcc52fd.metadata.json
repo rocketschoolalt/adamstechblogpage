@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "server": "deno/us-central1-b",
+    "x-amz-version-id": "Cv7fjn3DehM59x38xqUgoeQXGjgiegUq",
+    "vary": "Accept-Encoding",
+    "etag": "\"7d22cb5c2ba4c2c3e41c3cc350b49da9\"",
+    "date": "Wed, 27 Jul 2022 00:17:54 GMT",
+    "x-amz-id-2": "Ew46FqSclx2wFTxk5T4/5O/f5ozsxM2PZjMcJLY5k5IpJtD4X3VsImWCSAtedgpTqEkCKnMHptQ=",
+    "content-length": "10512",
+    "access-control-allow-origin": "*",
+    "x-amz-request-id": "X4MF0A99AENCVXSP",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-type": "application/typescript; charset=utf-8",
+    "last-modified": "Tue, 05 Jul 2022 14:17:31 GMT"
+  },
+  "url": "https://deno.land/std@0.147.0/node/internal_binding/pipe_wrap.ts"
+}

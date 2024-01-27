@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-amz-id-2": "J3E3wOQ8VJdrRVwLQWfkWclyNfPtB9LFLy1ZjcE/IBB11dqXn6tbO7saG8xjQIIAghpmfdBdQp0=",
+    "cache-control": "public, max-age=31536000, immutable",
+    "server": "deno/us-central1-b",
+    "vary": "Accept-Encoding",
+    "etag": "W/\"2e2d251f922f90087b678a220a28ea05\"",
+    "last-modified": "Tue, 05 Jul 2022 14:17:31 GMT",
+    "x-amz-version-id": "rYu6oc.O6yKDlz05PZkCGbw.qxT.7gnw",
+    "access-control-allow-origin": "*",
+    "date": "Wed, 27 Jul 2022 00:17:53 GMT",
+    "x-amz-request-id": "JTSV6RZEYFKV4N1S",
+    "content-type": "application/javascript"
+  },
+  "url": "https://deno.land/std@0.147.0/node/internal/streams/add-abort-signal.mjs"
+}

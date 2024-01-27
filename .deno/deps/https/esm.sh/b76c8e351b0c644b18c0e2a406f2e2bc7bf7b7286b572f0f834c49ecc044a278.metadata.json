@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "vary": "Origin, Accept-Encoding",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=ppfZXSiFwpqUrHRSiUdaXgIiaH4HxFF50SzW6nr3r3wYTYSCSWw6%2BkAflbe4xw06yzGRRkLyL9pbBlhb3bA%2Bc37lWKFoW04Mo%2FNoaBo%2FS%2BheqnCa0ezwjZg%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "date": "Wed, 27 Jul 2022 00:17:52 GMT",
+    "last-modified": "Mon, 11 Jul 2022 23:39:30 GMT",
+    "server": "cloudflare",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "cf-cache-status": "HIT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-type": "text/javascript; charset=utf-8",
+    "cf-ray": "731131d02c672ac6-ORD"
+  },
+  "url": "https://esm.sh/v87/marked@4.0.12/deno/marked.js"
+}

@@ -1,0 +1,19 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-length": "651",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=JWHHbq%2BEi7GBjVYXD5O%2FnVG%2BX3HP6AbznfGCPsVnud3kSDzFRc0o7uzfdDgUUxVKwxXjzW7i6I5DdZ2uzgISK6pg2W79%2F3sSZpvhH4m9zCYyXrjq3cu3Gfc%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "accept-ranges": "bytes",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cf-ray": "731131d299232ac6-ORD",
+    "last-modified": "Tue, 12 Jul 2022 00:24:23 GMT",
+    "content-type": "application/typescript; charset=utf-8",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "date": "Wed, 27 Jul 2022 00:17:53 GMT",
+    "server": "cloudflare",
+    "vary": "Origin",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+  },
+  "url": "https://esm.sh/v87/unconfig@0.3.5/dist/index.d.ts"
+}

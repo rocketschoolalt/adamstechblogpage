@@ -1,0 +1,20 @@
+run = [
+    "deno",
+    "run",
+    "--lock=lock.json",
+    "--lock-write",
+    "--allow-all",
+    "--no-check",
+    "index.ts"
+]
+
+hidden = [".deno"]
+
+entrypoint = "index.ts"
+
+[env]
+DENO_DIR = "/home/runner/${REPL_SLUG}/.deno"
+PATH = "$DENO_DIR/bin:PATH"
+
+[nix]
+channel = "stable-21_11"

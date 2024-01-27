@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=vQDdzSpeURAjZeTeamG0bhYVaCDYQa%2Fy17FFoxJOxm1eyVKfrsosjA%2FzKw48B1QBT%2BKJiz75gtDWzeNprzRHqO%2FTQGT5Yje4TeupDH5aUNfSort%2FfEmreY4%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "server": "cloudflare",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cf-cache-status": "HIT",
+    "last-modified": "Mon, 11 Jul 2022 23:39:33 GMT",
+    "content-type": "text/javascript; charset=utf-8",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "vary": "Origin, Accept-Encoding",
+    "cf-ray": "731131d2183f2ac6-ORD",
+    "age": "59266",
+    "date": "Wed, 27 Jul 2022 00:17:52 GMT"
+  },
+  "url": "https://esm.sh/v87/dom-serializer@1.4.1/deno/dom-serializer.js"
+}

@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "last-modified": "Mon, 11 Jul 2022 23:39:33 GMT",
+    "cf-cache-status": "HIT",
+    "content-type": "text/javascript; charset=utf-8",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=Ds4sKC2xI60fL%2Fe6Z55%2FeevfSBeFQ3w3IdPYFU3SdvETrD20yCiEXWKNgHqSjEbtTivuepUtDFPk73tgJJ5jzvk%2BIMjiuaLRIU1oCxL2xCKeo0lFZ80eQtg%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "cf-ray": "731131d2b9742ac6-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Wed, 27 Jul 2022 00:17:53 GMT",
+    "vary": "Origin, Accept-Encoding",
+    "age": "59266"
+  },
+  "url": "https://esm.sh/v87/entities@2.2.0/deno/entities.js"
+}

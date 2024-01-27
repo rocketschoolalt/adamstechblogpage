@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=s3OYlCVAJUjSDUIq1YVvqbqYIt04WGL87Sdei%2FTnzMm79BbARr7hvOgnusL7l%2Fja1dN645SYKbbSitAJa6tPA5FJzMAY2Se%2F4s3BcMV0KE74%2FTwbHMfKuTk%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "cf-ray": "731131e18c7c2ac6-ORD",
+    "date": "Wed, 27 Jul 2022 00:17:55 GMT",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "vary": "Origin, Accept-Encoding",
+    "last-modified": "Mon, 11 Jul 2022 23:41:04 GMT",
+    "content-type": "application/typescript; charset=utf-8",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "cf-cache-status": "DYNAMIC",
+    "cache-control": "public, max-age=31536000, immutable",
+    "server": "cloudflare"
+  },
+  "url": "https://esm.sh/v87/domutils@2.8.0/lib/manipulation.d.ts"
+}

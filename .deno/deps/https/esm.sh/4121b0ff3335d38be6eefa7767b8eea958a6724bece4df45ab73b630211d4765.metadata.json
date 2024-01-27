@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "vary": "User-Agent",
+    "server": "cloudflare",
+    "cf-ray": "731131cc3cea2ac6-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "content-type": "application/javascript; charset=utf-8",
+    "cache-control": "public, max-age=86400",
+    "x-typescript-types": "https://esm.sh/v87/feed@4.2.2/lib/feed.d.ts",
+    "cf-cache-status": "DYNAMIC",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=dRbBrmt3RIMpMulyh4%2Fv1vOzn%2FL%2FKN6a4XYNagaQPV0%2FKvTsnW%2FRX4cSNtYFcD%2FME%2BWh08Ty3EeZ6Snr3kzGzS3fB6ii8pSFQJpOoc4yg9C%2FKXnXUbHS2i4%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "date": "Wed, 27 Jul 2022 00:17:52 GMT",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+  },
+  "url": "https://esm.sh/feed@4.2.2"
+}
