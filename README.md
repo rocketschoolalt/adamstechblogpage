@@ -1,6 +1,6 @@
-# Minimal Blog Template
+# Adam's Technology Blog
 
-Minimal boilerplate blogging. All you need is one boilerplate JavaScript file that has 2 lines of code:
+Minimal technology blogging. All you need is one boilerplate JavaScript file that has 2 lines of code:
 
 ```javascript
 import blog from "https://deno.land/x/blog/blog.tsx";
