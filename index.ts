@@ -12,7 +12,8 @@ blog({
   background: "#fff"
 });
 
-class SeoManager {
+if (typeof window !== 'undefined') {
+ class SeoManager {
     setTitle(title: string) {
         document.title = title;
     }
@@ -34,10 +35,17 @@ class SeoManager {
 
 let seoManager = new SeoManager();
 
-// Set the page title
-seoManager.setTitle('Your Tech Blog Title');
-
-// Set meta tags
-seoManager.setMetaTag('description', 'Latest insights and news on technology and advancements. Stay up-to-date with tech trends and developments.');
-seoManager.setMetaTag('keywords', 'technology, tech news, gadgets, innovations');
-// Add other meta tags as necessary
+seoManager.setMetaTag('keywords', 'technology news, tech trends, latest gadgets, tech innovations, tech blog');
+seoManager.setMetaTag('canonical', 'https://adamstechblog.deno.dev');
+seoManager.setMetaTag('og:title', 'Latest Tech News & Advancements - The Advancements of Technology: Adams Tech Blog');
+seoManager.setMetaTag('og:description', 'Discover the latest trends and innovations in technology on our blog.');
+seoManager.setMetaTag('og:image', 'https://adamstechblog.deno.dev/');
+seoManager.setMetaTag('og:url', 'https://adamstechblog.deno.dev');
+seoManager.setMetaTag('og:image', 'https://adamstechblog.deno.dev/posts/pfp.jpg');
+seoManager.setMetaTag('og:url', 'https://adamstechblog.deno.dev');
+seoManager.setMetaTag('og:type', 'website');
+seoManager.setMetaTag('twitter:card', 'summary_large_image');
+seoManager.setMetaTag('twitter:title', 'Latest Tech News & Advancements - The Advancements of Technology: Adams Tech Blog');
+seoManager.setMetaTag('twitter:description', 'Explore the forefront of technology with our in-depth analysis and news.');
+seoManager.setMetaTag('author', 'Adam Ahmed');   
+}
