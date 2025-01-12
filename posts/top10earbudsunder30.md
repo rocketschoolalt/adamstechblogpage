@@ -88,7 +88,7 @@ Anyone seeking the convenience of true wireless earbuds without the hefty price 
 ---
 
 ## 5. Panasonic ErgoFit
-![Panasonic ErgoFit]([https://cdn.videocardz.com/1/2023/10/NVIDIA-RTX-4090-CHINA-BAN-HERO.jpg](https://miro.medium.com/v2/resize:fit:720/format:webp/0*g9agvyGPu319usRI.jpg))
+![Panasonic ErgoFit](https://miro.medium.com/v2/resize:fit:720/format:webp/0*g9agvyGPu319usRI.jpg)
 The **Panasonic ErgoFit** series has been around for years, consistently topping "best budget earbuds" lists. They're simple, reliable, and comfortable.
 
 **Key Features**  
