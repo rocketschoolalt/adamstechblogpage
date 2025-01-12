@@ -1,5 +1,5 @@
 ---
-title: Top 10 Earbuds Under \$30: Quality Sound on a Budget
+title: Top 10 Earbuds Under $30: Quality Sound on a Budget
 publish_date: 01-12-2025
 ---
 
